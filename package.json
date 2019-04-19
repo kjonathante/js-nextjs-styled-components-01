@@ -1,0 +1,21 @@
+{
+  "name": "js-nextjs-styled-components-01",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "styled-components": "4.2.0"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.8.0"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
